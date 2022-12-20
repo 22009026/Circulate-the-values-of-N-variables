@@ -12,17 +12,17 @@ Anaconda - Python 3.7
 ## Algorithm: 
 
 ### Step 1: 
-Get the two values from the user
+Get the list of values from the user
 ### Step 2:
-Assign the value of second variable to a temporary variable 
+Get the value from user for the number of rotation
 ### Step 3: 
-Get the value from the user for the number of rotation
+Declare a function starting with keyword def
 ### Step 4: 
-Using the slicing concept rotate the list
+Within the function print the output statement
 ### Step 5 :
-Print both the values it would be interchanged
+Using the slicing concept rotate the list
 ### Step 6: 
-End the program
+Display the output
 
 ## Program:
 ```python
