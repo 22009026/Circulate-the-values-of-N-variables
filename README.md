@@ -24,10 +24,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 
-### Step 6: 
-
 ## Program:
+```python
+#Program to circulate N values.
+#Developed by: Lavanya.M
+#RegisterNumber:22009026
+def circulate():
+    circul=l[n:]+l[:n]
+    print("After circulating the values are:",circul)
+l=eval(input())
+n=int(input())
+```
 
 ## Output:
-
+![](./circulate%20n%20variables.png)
 ## Result:
